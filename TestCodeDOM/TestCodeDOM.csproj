@@ -11,7 +11,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.0" />
     <PackageReference Include="NHibernate" Version="5.2.6" />
     <PackageReference Include="System.CodeDom" Version="4.6.0" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.7.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
     <PackageReference Include="System.Reflection.Emit" Version="4.6.0" />
   </ItemGroup>
 
